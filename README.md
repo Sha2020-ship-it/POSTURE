@@ -1,2 +1,14 @@
 # POSTURE
 THIS IS THE POSTURE DETECTION FEATURE FOR OUR StudentMe WEBSITE
+
+This is the Posture Detection for our StudentMe website!
+
+TO RUN THIS PROJECT: IN YOUR COMMAND PROMPT OR POWERSHELL
+
+PLEASE RUN
+pip install -r requirements.txt
+RUN
+python .\main.py
+TO CHANGE THE IMAGE, PLEASE CHANGE THE IMAGE PATH ON LINE 462.
+
+THANK YOU!
